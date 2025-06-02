@@ -14,16 +14,16 @@ Aplica los conceptos de la teoría de la probabilidad y estadística para organi
 ## Lecturas
 + Videos:
   
-  [Regresión lineal.](https://github.com/angelarmenta/regresion-lineal)
+  [Regresión lineal](https://github.com/angelarmenta/regresion-lineal)
 
 + Notas
 
 ## Notebook
 Unidad 5:
-+ [Regresión lineal.](https://github.com/angelarmenta/regresion-lineal/blob/main/notebook/RL_limones.ipynb)
++ [Regresión lineal](https://github.com/angelarmenta/regresion-lineal/blob/main/notebook/RL_limones.ipynb)
 
 Unidad 6:
-+ [Prueba de hipótesis.]()
++ [Prueba de hipótesis]()
 
 ## Announcements
 
